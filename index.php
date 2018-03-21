@@ -10,6 +10,18 @@
 include 'connection.php';
 ?> 
 <body>
+		<!-- Database Name: expense_manager 
+			 Database Table Name: expenses
+		{		COLUMN			TYPE
+				Grocery 		float,
+				Entertainment 	float,
+				Vehicle 		float, 
+				Food 			float,
+				Miscellaneous 	float,
+				date 			date,
+				total 			double
+		}
+		-->
 
 		<section id="body" class="width">
 			<aside id="sidebar" class="column-left">
